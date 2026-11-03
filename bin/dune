@@ -1,0 +1,4 @@
+(executable
+ (public_name tower-defense)
+ (name main)
+ (libraries tower_defense))
