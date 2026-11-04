@@ -1,2 +1,3 @@
 (library
- (name tower_defense))
+ (name tower_defense)
+ (wrapped false))
